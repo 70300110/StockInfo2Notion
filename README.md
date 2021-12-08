@@ -1,2 +1,1 @@
 # StockInfo2Notion
- 
